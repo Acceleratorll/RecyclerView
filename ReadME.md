@@ -1,14 +1,19 @@
 Nama    : Moch Fajrul Falah
+
 No      : 18 
+
 
 Task 2
 
 ![Screenshot](images/1.jpeg)
 
 
+
 Task 3
 
 ![Screenshot](images/2.jpeg)
+
+
 
 HomeWork
 
